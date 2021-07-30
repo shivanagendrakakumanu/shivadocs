@@ -12,6 +12,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'shivanagendrakakumanu', // Usually your GitHub org/user name.
   projectName: 'shivadocs', // Usually your repo name.
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: 'My Site',
