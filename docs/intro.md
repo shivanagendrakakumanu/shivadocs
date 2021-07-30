@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Shiva Nagendra Intro
+# Shiva Nagendra Kakumanu Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
