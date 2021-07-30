@@ -6,12 +6,12 @@ module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://shivanagendrakakumanu.github.io.',
-  baseUrl: '/shivadocs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'shivanagendrakakumanu', // Usually your GitHub org/user name.
-  projectName: 'shivadocs', // Usually your repo name.
+  projectName: 'shivadocs', // Usually your repo name
   trailingSlash: false,
   themeConfig: {
     navbar: {
