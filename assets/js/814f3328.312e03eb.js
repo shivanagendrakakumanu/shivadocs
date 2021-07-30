@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[535],{6353:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/shivadocs/blog/welcome"},{"title":"Hello","permalink":"/shivadocs/blog/hello-world"},{"title":"Hola","permalink":"/shivadocs/blog/hola"}]}')}}]);

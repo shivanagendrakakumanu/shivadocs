@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[263],{49:function(s){s.exports=JSON.parse('{"allTagsPath":"/shivadocs/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/shivadocs/blog/tags/hola"}')}}]);
