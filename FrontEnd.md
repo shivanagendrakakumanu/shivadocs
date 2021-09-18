@@ -30,7 +30,7 @@ Introduction to Angular Different versions of Angular Differences between Angula
 
 
 
-
+# Other
 
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
